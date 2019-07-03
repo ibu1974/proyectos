@@ -7,7 +7,7 @@ import javax.persistence.Id;
 @Entity
 public class Contacto implements Serializable {
 	
-	
+/** Es una tercera prueba **/	
 	private static final long serialVersionUID = 4894729030347835498L;
 	 @Id
 	 @GeneratedValue
