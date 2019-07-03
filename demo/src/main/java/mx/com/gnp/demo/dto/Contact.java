@@ -7,7 +7,11 @@ import javax.persistence.Id;
 @Entity
 public class Contact implements Serializable {
 	
+<<<<<<< HEAD
 /** Es la segunda prueba de sincronizacion **/
+=======
+/**Este es un comentario puesto en el GIT**/	
+>>>>>>> branch 'master' of https://github.com/ibu1974/proyectos.git
 	private static final long serialVersionUID = 4894729030347835498L;
 	 @Id
 	 @GeneratedValue
